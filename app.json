@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "QR Code Scanner",
+    "android": {
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-3624987478965650~7202274697"
+      }
+    },
+    "description": "",
+    "slug": "qr-code-scanner"
+  }
+}
